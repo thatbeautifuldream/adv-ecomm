@@ -1,0 +1,23 @@
+body {
+  font-family: "Inter";
+  font-size: 22px;
+}
+.logo img {
+  padding: 10px;
+}
+.nav {
+  background-color: white;
+  z-index: 9;
+  padding: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.nav_top {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+.nav_side {
+  float: right;
+}
